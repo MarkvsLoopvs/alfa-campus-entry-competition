@@ -1,3 +1,3 @@
-# alfa-campus
-Entry task for Alfa Campus Data Science program.
-At the moment of deadline this solution was #4 out of 500+. This was enough to get me into the program.
+# alfa-campus card transaction prediction
+Решение отборочного соревнование в программу Альфа Кампус осени 2023 года по направлению Data Science в финтехе.
+На момент дедлайна решение было #4/500 что позволило мне попасть в программу.
